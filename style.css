@@ -331,6 +331,9 @@ section {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  margin-bottom: auto;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .article-container {
@@ -510,3 +513,4 @@ footer {
 footer p {
   text-align: center;
 }
+
